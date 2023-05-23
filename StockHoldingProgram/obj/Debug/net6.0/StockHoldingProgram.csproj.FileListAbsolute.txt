@@ -1,0 +1,15 @@
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.csproj.AssemblyReference.cache
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.AssemblyInfoInputs.cache
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.AssemblyInfo.cs
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.csproj.CoreCompileInputs.cache
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\bin\Debug\net6.0\StockHoldingProgram.exe
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\bin\Debug\net6.0\StockHoldingProgram.deps.json
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\bin\Debug\net6.0\StockHoldingProgram.runtimeconfig.json
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\bin\Debug\net6.0\StockHoldingProgram.dll
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\bin\Debug\net6.0\StockHoldingProgram.pdb
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.dll
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\refint\StockHoldingProgram.dll
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.pdb
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\StockHoldingProgram.genruntimeconfig.cache
+C:\Users\rajni\Desktop\github\queue\C-Sharp-QUEUE-implementation\StockHoldingProgram\StockHoldingProgram\obj\Debug\net6.0\ref\StockHoldingProgram.dll
